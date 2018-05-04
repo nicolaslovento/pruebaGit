@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1525438055 source:c:\users\alumno\desktop\mercadolibre1.0\funciones.c
+	"Funciones.h"
+	<stdio.h>
+	<stdlib.h>
+
+1525438055 c:\users\alumno\desktop\mercadolibre1.0\funciones.h
+
+1525440288 source:c:\users\alumno\desktop\mercadolibre1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
